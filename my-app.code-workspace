@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "/Users/deanpogni/Desktop/electron-quick-start"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "/Users/deanpogni/Desktop/photoroll"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "prettier.eslintIntegration": true,
+    "git.ignoreLimitWarning": true
+  }
+}
